@@ -1,6 +1,6 @@
 # **AppCompras (Tabela de compras)**
 
-> Um aplicativo Android desenvolvido para monitorar o consumo de recursos.
+> Um aplicativo Android desenvolvido para calcular os produtos escolhidos e mostralos.
 
 ## Descrição
 O **AppCompras** permite ao usuário que possa marcar quais compra ela queira para o app fazer a somatoria de valores dos produtos selecionados.
