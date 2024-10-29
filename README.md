@@ -36,7 +36,7 @@ Siga os passos abaixo para rodar o projeto localmente:
    ├── src
    │   ├── main
    │   │   ├── java/com/example/appconsumo
-   │   │   │   ├── MainActivity.java # Atividade principal para monitoramento de consumo
+   │   │   │   ├── MainActivity.java # Atividade principal onde será feito a selção e o calculo dos produtos
    │   │   ├── res
    │   │   │   ├── layout
    │   │   │   │   ├── activity_main.xml # Layout da tela principal
